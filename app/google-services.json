@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "770998055150",
+    "firebase_url": "https://tarefastodo-default-rtdb.firebaseio.com",
+    "project_id": "tarefastodo",
+    "storage_bucket": "tarefastodo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770998055150:android:df916faa7ab5903b5943ff",
+        "android_client_info": {
+          "package_name": "com.example.tarefastodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770998055150-o54494lditi9plpm836e49798p90r969.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArD6Xe_1z2GU5ubl-HOkyI_uamjmMcxRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770998055150-o54494lditi9plpm836e49798p90r969.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
